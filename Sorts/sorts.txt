@@ -1,0 +1,20 @@
+TTYPES OF SORTTINGS :-
+Sorting algorithms in DSA are methods used in a specific order, like ascending and descending.
+
+USES AND IMPORTANCE :-
+1) searching made faster                    1) brings efficiency
+2) data organisation                        2) foundation of advanced algorithms        
+3) data management                          3) performance optimization
+4) efficient merging                        4) better data presentation
+5) data analysis in statistics 
+6) scheduling and priority handling
+7) removing dulpicates
+
+Classification of sortings :-
+1) comparision based sortings : bubble sort, selection sort, insertion sort, merge sort,
+                                quick sort, heap sort
+
+2) non comparision based sortings : counting sort, radix sort, bucket sort
+-------------------------X-----------------------------X--------------------------
+
+
